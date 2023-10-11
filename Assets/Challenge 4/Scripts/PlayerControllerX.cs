@@ -13,7 +13,7 @@ public class PlayerControllerX : MonoBehaviour
     public int powerUpDuration = 5;
     private float normalStrength = 10; // how hard to hit enemy without powerup
     private float powerupStrength = 23; // how hard to hit enemy with powerup
-    public float boost = 8.5f;
+    public float boost = 8.6f;
     
     void Start()
     {
